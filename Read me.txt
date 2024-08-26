@@ -41,7 +41,5 @@
 
 7. **Run the development server:**
 
-    python3 manage.py runserver
-
 Your Django project should now be up and running at http://127.0.0.1:8000/.
 
